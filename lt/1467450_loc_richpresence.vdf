@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"lithuanian"
+	"Tokens"
+	{
+		"#Status_InMenu"	"Pagrindinis Meniu"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - %level% lygis - %chapter% skyrius"
+		"#Status_Guild_None"	"Imigrantas"
+		"#Status_Guild_Citizen"	"Pilietis"
+		"#Status_Guild_WaterCircle"	"Vandens burtininkų rato narys"
+		"#Status_Guild_Runner"	"Pasiuntinys"
+		"#Status_Guild_VeteranRunner"	"Patyręs pasiuntinys"
+		"#Status_Guild_Mercenary"	"Samdinys"
+		"#Status_Guild_Hunter"	"Medžiotojas"
+		"#Status_Guild_VeteranMercenary"	"Patyręs samdinys"
+		"#Status_Guild_VeteranHunter"	"Patyręs medžiotojas"
+		"#Status_Guild_Militia"	"Sargybinis"
+		"#Status_Guild_MilitiaVeteran"	"Patyręs sargybinis"
+		"#Status_Guild_Swordsman"	"Pėstininkas"
+		"#Status_Guild_Crossbowman"	"Šaulys"
+		"#Status_Guild_VeteranSwordsman"	"Patyręs pėstininkas"
+		"#Status_Guild_VeteranCrossbowman"	"Patyręs šaulys"
+	}
+}
