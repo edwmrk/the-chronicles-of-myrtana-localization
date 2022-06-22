@@ -1,0 +1,11 @@
+﻿{
+  "MOD_NAME": "The Chronicles Of Myrtana: Archolos",
+  "ERROR_LAA": "Aptiktas nepakankamas galimų virtualiosios atminties adresų kiekis. Standartinė žaidimo versija neišgali susidoroti su daugiau nei 2 gigabaitais virtualios atminties. Tam, kad išspręsti šią problemą būtina įsirašyti taip vadinamą „4 gigabaitų pačą“, kurį laisvai galite rasti čia: https://ntcore.com/?page_id=371.",
+  "ERROR_SAVE_LANGUAGEMISMATCH": "Bandant užkrauti išsaugotą žaidimo versiją įvyko klaida. Greičiausia to priežastis - dabartinės ir išsaugotos žaidimo versijos lokalizacijų nesuderinamumas. Norėdami tęsti, pasikeiskite žaidimo kalbą.",
+  "ERROR_SAVE_NOTCOMPATIBLE": "Bandant užkrauti išsaugotą žaidimo versiją įvyko klaida. Greičiausia to priežastis - bendras dabartinės ir išsaugotos žaidimo versijos nesuderinamumas. Norėdami tęsti, sugrįžkite prie senesnės žaidimo versijos (t.y prie tos, kurioje atlikote išsaugojimą).",
+  "ERROR_KMLIB_2": "Nerastas „KmLib.dll“ programos failas. Pamėginkite atlikti pakartotinį programos diegimą arba susisiekite su technine pagalba. Klaidos kodas: ",
+  "ERROR_KMLIB_126": "Nepavyko užkrauti „KmLib.dll“ programos failo. Pamėginkite įsidiegti naujausius „Visual Studio“ platinamuosius paketus (konkrečiai: https://aka.ms/vs/16/release/vc_redist.x86.exe ir https://aka.ms/vs/16/release/vc_redist.x64.exe). Klaidos kodas: ",
+  "ERROR_KMLIB_OTHER": "Nepavyko užkrauti „KmLib.dll“ programos failo. Pamėginkite atlikti pakartotinį programos diegimą arba susisiekite su technine pagalba. Klaidos kodas: ",
+  "ERROR_KMLIB_GETPROCADDRESS": "Nepavyko užkrauti dalies „KmLib.dll“ programos failo. Pamėginkite atlikti pakartotinį programos diegimą arba susisiekite su technine pagalba. Klaidos kodas: ",
+  "MESSAGE_VDFS_MISMATCH": "Aptikta su žaidimu nesuderinama „SystemPack“ versija. Šiuo metu oficialiai palaikoma tik 1.8 versija.\\nNegarantuojame suderinamumo su kitomis „SystemPack“ versijomis ar kitais panašią funkciją atliekančiais įskiepiais t.y „Union“ ir pnš."
+}
